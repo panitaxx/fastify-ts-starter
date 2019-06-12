@@ -1,4 +1,4 @@
-# TypeScript Node Starter
+# TypeScript Fastify API SERVER Starter
 
 typescript starter for fastify.
 
